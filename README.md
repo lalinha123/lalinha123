@@ -1,5 +1,5 @@
 ### 🌟Frontend Dev🌟
-### I ❤️ cats 🐱, coffee ☕, art 🎨 and programming ⌨️!!
-### Current on -> a JS project that hates me :)
+### Eu ❤️ gatos 🐱, café ☕, arte 🎨 e programação ⌨️!!
+### Trabalhando em -> um projeto JS que me odeia :)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 

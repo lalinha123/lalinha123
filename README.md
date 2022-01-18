@@ -2,7 +2,7 @@
 ### Eu ❤️ gatos 🐱, café ☕, arte 🎨 e programação ⌨️!!
 ### Trabalhando em -> um projeto JS que me odeia :)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=radical)
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lalinha123)
 
 
 
